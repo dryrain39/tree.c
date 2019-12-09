@@ -3,7 +3,6 @@
 #include <unistd.h>
 #include <string.h>
 #include <time.h>
-#include <unistd.h>
 
 void print_tree(int height, int padding) {
     int colors[] = {31, 32, 33, 34, 35, 36, 37};
